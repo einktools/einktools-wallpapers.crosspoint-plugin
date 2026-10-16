@@ -1,0 +1,8 @@
+{
+  "name": "einktools-wallpapers",
+  "title": "einktools Wallpapers",
+  "description": "Public-domain art sized and dithered for Xteink screens, saved to your sleep rotation.",
+  "author": "einktools.com",
+  "version": "0.1.0",
+  "files": ["manifest.json", "device.json", "README.md"]
+}

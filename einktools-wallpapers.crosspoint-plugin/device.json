@@ -1,0 +1,23 @@
+{
+  "title": "einktools Wallpapers",
+  "description": "Public-domain art sized and dithered for Xteink screens, saved to your sleep rotation.",
+  "author": "einktools.com",
+  "version": "0.1.0",
+  "browse": {
+    "format": "json",
+    "url": "https://einktools.com/plugin/catalog/x4-{page}.json",
+    "method": "GET",
+    "items": "items",
+    "fields": { "title": "title", "author": "author", "id": "id", "url": "url" },
+    "page_size": 10,
+    "lists": [
+      { "title": "X4 / X4 Pro (480x800)" },
+      { "title": "X3 (528x792)", "url": "https://einktools.com/plugin/catalog/x3-{page}.json" }
+    ]
+  },
+  "download": {
+    "url": "{url}",
+    "dest_dir": "/.sleep",
+    "filename": "{id}.bmp"
+  }
+}
