@@ -8,4 +8,8 @@ Public-domain art from einktools.com/wallpapers, already sized for your screen a
 
 If /sleep.bmp exists it is shown instead of the /.sleep pictures. Delete or rename it to use the rotation.
 
+Wide paintings are listed twice: in portrait only the middle of a six-panel screen fits, so Pine Trees and the other wide ones also come as a "(sideways)" entry that fills the screen with the reader turned on its side.
+
 Make your own from any photo at einktools.com/xteink-wallpaper-converter
+
+Something broken, or a painting you want added? Email hello@einktools.com with the plugin name in the subject and say which picture and which model.

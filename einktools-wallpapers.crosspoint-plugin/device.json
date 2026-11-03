@@ -2,7 +2,7 @@
   "title": "einktools Wallpapers",
   "description": "Public-domain art sized and dithered for Xteink screens, saved to your sleep rotation.",
   "author": "einktools.com",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "browse": {
     "format": "json",
     "url": "https://einktools.com/plugin/catalog/x4-{page}.json",
